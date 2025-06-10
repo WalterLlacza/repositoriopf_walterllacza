@@ -24,7 +24,7 @@ public class Cliente_compras {
         totalcompras=compra1+compra2+compra3;
         productocompras=totalcompras/3;
         //salida de datos
-        System.out.println("EL MONTO TOTAL DE COMPRAS DE: "+cliente);
+        System.out.println("EL REPORTE DE COMPRAS DE: "+cliente);
         System.out.println("EL MONTO TOTAL DE COMPRAS ES: "+totalcompras);
         System.out.println("EL PROMEDIO DE COMPRAS ES: "+productocompras);
     }//fin del metodo
